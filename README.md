@@ -23,33 +23,36 @@ This repository consists of HackerRank **Skills Certificates** & **Badges**.
 
 ## HackerRank Certificates
 
-<a href="Skills%20Certification/C%23%20(Basic)%20Certificate.png">
-    <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
+<a href="C%23%20(Basic)%20.png">
+    <img src="C%23(Basic) Verified.jpeg" alt="C# (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
-    <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+<a href="Python%20(Basic)%20.png">
+    <img src="Python(Basic) Verified.jpeg" alt="Python (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/Java%20(Basic)%20Certificate.png">
-    <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
+<a href="Java%20(Basic)%20.png">
+    <img src="Java(Basic) Verified.jpeg" alt="Java (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/JavaScript%20(Basic)%20Certificate.png">
-    <img src="Badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
+<a href="JavaScript%20(Basic)%20.png">
+    <img src="Javascript(Basic) Verified.jpeg" alt="JavaScript (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/Node%20(Basic)%20Certificate.png">
-    <img src="Badges/node_basic_skill.png" alt="Node (Basic) Certificate"/>
+<a href="Angular%20(Basic)%20.png">
+    <img src="Angular(Basic) Verified.jpeg" alt="Angular (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/React%20(Basic)%20Certificate.png">
-    <img src="Badges/react_basic_skill.png" alt="React (Basic) Certificate"/>
+<a href="React%20(Basic)%20.png">
+    <img src="React(Basic) Verified.jpeg" alt="React (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
-    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+<a href="Problem%20Solving%20(Basic)%20.png">
+    <img src="Problem Solving(Basic) Verified.jpeg" alt="Problem Solving (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/REST%20API%20(Intermediate).png">
-    <img src="Badges/rest_api_intermediate_skill.png" alt="REST API (Intermediate) Certificate"/>
+<a href="REST%20API%20(Intermediate).png">
+    <img src="REST API(Intermediate) Verified.jpeg" alt="REST API (Intermediate) Certificate"/>
 </a>
-<a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png">
-    <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
+<a href="SQL%20(Basic)%20.png">
+    <img src="SQL(Basic) Verified.jpeg" alt="SQL (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/SQL%20(Intermediate)%20Certificate.png">
-    <img src="Badges/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/>
+<a href="SQL%20(Intermediate)%20.png">
+    <img src="SQL(Intermediate) Verified.jpeg" alt="SQL (Intermediate) Certificate"/>
+</a>
+<a href="Problem Solving%20(Intermediate)%20.png">
+    <img src="Problem Solving(Intermediate) Verified.jpeg" alt="Problem Solving (Intermediate) Certificate"/>
 </a>
